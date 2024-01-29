@@ -1,0 +1,56 @@
+
+// day 1 of learning full stack web development
+// 7-1-24
+
+91902@Krushna MINGW64 /d/Git and Github tutorial by harry
+$ git config --global user.name Krish
+
+91902@Krushna MINGW64 /d/Git and Github tutorial by harry
+$ git config --global user.email wagh.krushna2004@gmail.com
+
+91902@Krushna MINGW64 /d/Git and Github tutorial by harry
+$ git config --global user.email
+wagh.krushna2004@gmail.com
+
+91902@Krushna MINGW64 /d/Git and Github tutorial by harry
+$ git config --global user.name
+Krish
+
+91902@Krushna MINGW64 /d/Git and Github tutorial by harry
+$ code .
+
+91902@Krushna MINGW64 /d/Git and Github tutorial by harry
+$ git init
+Initialized empty Git repository in D:/Git and Github tutorial by harry/.git/
+
+91902@Krushna MINGW64 /d/Git and Github tutorial by harry (master)
+$ ls -lart
+total 8
+drwxr-xr-x 1 91902 197609 0 Jan  7 09:12 ../
+drwxr-xr-x 1 91902 197609 0 Jan  7 09:16 ./
+drwxr-xr-x 1 91902 197609 0 Jan  7 09:16 .git/
+
+91902@Krushna MINGW64 /d/Git and Github tutorial by harry (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.html
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+91902@Krushna MINGW64 /d/Git and Github tutorial by harry (master)
+$ git add
+Nothing specified, nothing added.
+hint: Maybe you wanted to say 'git add .'?
+hint: Turn this message off by running
+hint: "git config advice.addEmptyPathspec false"
+
+91902@Krushna MINGW64 /d/Git and Github tutorial by harry (master)
+$
+
+
+
